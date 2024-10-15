@@ -9,7 +9,7 @@
 
 
 Learn from ChatGPT
-[[For AER part, how does it work? what is the implementation]]
-[[One quick question, what are the error types of AER? please list them all]]
+[[For AER part, how does it work. what is the implementation]]
+[[One quick question, what are the error types of AER. please list them all]]
 
 

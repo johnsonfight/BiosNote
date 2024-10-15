@@ -1,3 +1,5 @@
+Q: For AER part, how does it work? What is the implementation
+
 **Advanced Error Reporting (AER)** is a key feature of the **PCIe (Peripheral Component Interconnect Express)** specification that provides a standardized way to detect, log, and report errors that occur on the PCIe bus and devices. AER plays a critical role in improving system **Reliability, Availability, and Serviceability (RAS)** by allowing systems to detect errors in a granular way, attempt recovery, or report the issue for corrective action. Here's a detailed look at how **AER works** and its implementation:
 
 ### 1. **How AER Works**:

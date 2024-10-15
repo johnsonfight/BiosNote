@@ -1,3 +1,6 @@
+Q: One quick question, what are the error types of AER? Please list them all
+
+
 In **Advanced Error Reporting (AER)**, errors are classified into three main categories, with specific error types under each category. Here’s a list of all the error types for AER:
 
 ### 1. **Correctable Errors**:
