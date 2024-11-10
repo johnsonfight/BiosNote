@@ -13,3 +13,5 @@ Learn from ChatGPT
 [[One quick question, what are the error types of AER. please list them all]]
 
 
+[[Example of dumping AER info on Ubuntu]]
+
